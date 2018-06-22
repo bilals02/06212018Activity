@@ -10,3 +10,21 @@ h1 {
     background-color: 213258;
     color: white;
 }
+
+#SearchParameter {
+    border: solid 1px black;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+
+}
+
+#TopArticles {
+    border: solid 1px black;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+
+}
