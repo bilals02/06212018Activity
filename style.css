@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+#mainJumbotron {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: 213258;
+    color: white;
+}
